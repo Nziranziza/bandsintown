@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bandsintown/static/css/main.4a935274.css",
+    "main.js": "/bandsintown/static/js/main.12939cd8.js",
+    "static/js/787.04fc1d5a.chunk.js": "/bandsintown/static/js/787.04fc1d5a.chunk.js",
+    "index.html": "/bandsintown/index.html",
+    "main.4a935274.css.map": "/bandsintown/static/css/main.4a935274.css.map",
+    "main.12939cd8.js.map": "/bandsintown/static/js/main.12939cd8.js.map",
+    "787.04fc1d5a.chunk.js.map": "/bandsintown/static/js/787.04fc1d5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a935274.css",
+    "static/js/main.12939cd8.js"
+  ]
+}
